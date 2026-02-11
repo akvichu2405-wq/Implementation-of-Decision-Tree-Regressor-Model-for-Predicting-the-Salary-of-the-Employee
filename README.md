@@ -92,9 +92,9 @@ RMSE : 119765.39567003484
 R2   : 0.6146455223880596
 ```
 <img width="1362" height="762" alt="image" src="https://github.com/user-attachments/assets/4c11991f-e4f7-4eed-87f0-7dc845af78e4" />
-```
+
 Predicted Salary for 5 years experience: 95000.0
-```
+
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
